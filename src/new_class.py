@@ -1,3 +1,4 @@
 class NewClass:
-    a = 1
-    b = 2
+    a = 0
+    b = a * 0
+    c = 1
